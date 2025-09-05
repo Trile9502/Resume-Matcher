@@ -1,4 +1,4 @@
-<div align="center">
+<edit.Trile9502
 
 [![Resume Matcher](Assets/img/Resume_Matcher_GitHub_Banner.png)](https://www.resumematcher.fyi)
 
